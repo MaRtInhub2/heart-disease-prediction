@@ -110,11 +110,3 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook heart_disease_risk_prediction.ipynb
 ```
-
----
-
-## 👤 Автор
-**Мартин Гончаров**
-* GitHub: [@MaRtInhub2](https://github.com/MaRtInhub2)
-* Специализация: Data Science / Machine Learning
-* БГТУ «ВОЕНМЕХ» им. Д.Ф. Устинова
